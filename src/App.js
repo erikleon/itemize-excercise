@@ -87,7 +87,7 @@ class App extends Component {
     return (
       <div className={"container pt-4"}>
         <div className={"row justify-content-center"}>
-          <div className={"card col-xs-12 col-sm-6 col-sm-offset-3"+this.state.loading}>
+          <div className={"card col-xs-12 col-sm-6"+this.state.loading}>
             <div className={"text-center"}>
               <img src={logo} className="App-logo" alt="logo" />
             </div>
