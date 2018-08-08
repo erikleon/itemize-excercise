@@ -1,0 +1,15 @@
+{
+  "short_name": "React Code Excercise",
+  "name": "Itemize React Code Excercise",
+  "icons": [
+    {
+      "src": "cropped-cropped-itemize-color-chicklet-32x32.jpg",
+      "sizes": "32x32",
+      "type": "image/x-jpg"
+    }
+  ],
+  "start_url": "./index.html",
+  "display": "standalone",
+  "theme_color": "#E5E9F4",
+  "background_color": "#E5E9F4"
+}
